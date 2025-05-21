@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Más allá del sabor: prevención y seguridad en productos cárnicos'
