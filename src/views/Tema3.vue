@@ -62,7 +62,7 @@
             p.mb-0 Aparece en productos cárnicos que, tras haber sido conservados correctamente, son expuestos al aire. Este cambio de color se debe al desarrollo de microorganismos como #[em lactobacillus viridescens, leuconostoc spp]. Y #[em enterococcus spp.], que reaccionan con los pigmentos de la carne.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-md-6.col-8.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-3.col-md-5.col-7.mb-4.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/1.svg', alt='')
       .col-lg-9(data-aos="fade-left")
         p Los microorganismos desempeñan un papel fundamental en la calidad e inocuidad de los productos cárnicos. Si bien algunos son utilizados de forma controlada en procesos de fermentación o maduración, la mayoría representan un riesgo sanitario cuando se desarrollan de manera no deseada durante la producción, almacenamiento o comercialización, su presencia puede provocar alteraciones en el sabor, olor, textura y color de la carne, además de generar enfermedades transmitidas por alimentos. Por ello, es esencial conocer los principales tipos de microorganismos involucrados y las condiciones que favorecen su crecimiento, con el fin de implementar medidas preventivas eficaces a lo largo de la cadena alimentaria.

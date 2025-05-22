@@ -23,7 +23,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-9(data-aos="fade-right")
           p La carne destaca por su densidad nutricional, siendo una fuente importante de energía y nutrientes esenciales que favorecen el crecimiento, la regeneración celular y el mantenimiento de funciones vitales. Aporta aminoácidos indispensables que el cuerpo no puede sintetizar por sí mismo, además de minerales clave para la oxigenación de los tejidos y el sistema inmunológico, su composición y frescura están directamente relacionadas con su origen, tipo de corte y condiciones de procesamiento, lo que influye en su sabor, textura y vida útil; por ello, es fundamental aplicar buenas prácticas de manejo para preservar su calidad y evitar riesgos para la salud.
-        .col-lg-3.col-md-6.col-10(data-aos="fade-left")
+        .col-lg-3.col-md-6.col-8(data-aos="fade-left")
           img(src='@/assets/curso/temas/t1/2.svg', alt='')
 
       .subt.mb-4(data-aos="fade-right")
@@ -45,7 +45,7 @@
           .titulo-sexto.color-acento-contenido
             h5 Figura 1. 
             span Diagrama de flujo de cómo se puede contaminar la carne
-        .col-lg-5.col-md-11.mb-3
+        .col-lg-5.col-md-9.mb-3
           figure
             img(src='@/assets/curso/temas/t1/fig1.svg', alt='Diagrama de flujo que muestra las etapas en las que la carne puede contaminarse: desde la producción primaria, matadero, transporte, sala de despiece o carnicería, hasta el almacenamiento, elaboración, exposición y venta.')
         .col-12
@@ -60,7 +60,7 @@
               .col.mb-3.mb-sm-0
                 h4.mb-0.ct-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento:
               .col-auto.mb-3.mb-sm-0
-                a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/Evaluacion_calidad_carnes_frescas.pdf')" target="_blank" type="application/pdf")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Evaluacion_calidad_carnes_frescas.pdf')" target="_blank" type="application/pdf")
                   span Descargar 
                   i.fas.fa-file-download
 

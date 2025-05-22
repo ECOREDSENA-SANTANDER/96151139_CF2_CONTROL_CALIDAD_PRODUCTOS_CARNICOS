@@ -103,6 +103,18 @@ figcaption
   @media screen and (max-width: 767px)
     margin-inline: -1.4rem  
     background-size: cover 
+.bgc-3
+  background-image: url('../assets/curso/temas/t5/bgc.png')
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
 .bg1
   background-color: #F9F6F3
 .bg2
@@ -113,6 +125,8 @@ figcaption
   background-color: #F4EEE8
 .bg5
   background-color:  #EADED2
+.bg6
+  background-color:  #F6F6F6
 .ct-1
   color: #7C1815 !important
 
@@ -162,6 +176,14 @@ figcaption
   display: flex
   justify-content: center
   align-items: center
+.slyder-f__slyde .tarjeta
+  border: 1px solid #eee
+.tabs-c
+  border: 0px
+  &__header
+    margin-bottom: 0px
+  &__tab--active
+    font-weight: bold
 
 .w-55
   width: 55px
@@ -187,16 +209,21 @@ figcaption
     @media (max-width: $bp-max-sm)
       height: 95%
       top: 3px
+  &--2::before
+    content: ''
+    position: absolute
+    background-color: #7C1815
+    border-radius: 200px
+    width: 100%
+    height: 90%
+    top: 3px
+    z-index: 0
+    @media (max-width: $bp-max-sm)
+      height: 95%
+      top: 3px    
   h3, img
     z-index: 999  
     position: relative
-.subt2    
-  background-color: #E6D5D3
-  width: fit-content
-  border-radius: 20px
-  padding: 7px 45px 9px 15px
-  h3  
-    color: #7C1815    
 .lista-ul--color.dark li > i:first-of-type  
   color: #464442 !important
   font-size: 15px
@@ -240,6 +267,65 @@ figcaption
   img     
     height: 100%
     object-fit: cover
+
+.tarjeta--boton.t4
+  cursor: inherit
+  background-color: #E6D5D3  
+  &:hover
+    background-color: #9B4B43
+    p
+      color: #FFF
+      transition: color 0.3s ease-in-out
+    .img-svg 
+      background-color: #E6D5D3
+      img
+        filter: invert(14%) sepia(30%) saturate(5440%) hue-rotate(350deg) brightness(99%) contrast(93%)
+  .img-svg
+    width: 100px
+    padding: 17px
+    background-color: #464442
+    border-radius: 100px
+    margin: 0 auto
+    img
+      filter: invert(92%) sepia(1%) saturate(7334%) hue-rotate(191deg) brightness(131%) contrast(100%)
+
+.tabla-a.t4
+  table 
+    min-width: 600px
+    td
+      padding: 5px 15px
+      border-left: 0px
+      border-right: 0px
+    thead
+      border: 0px
+      th
+        font-size: 1em
+        color: $white
+        padding: 7px 15px
+        background-color: #690E0F
+        border: 0px
+        &:first-child
+          border-top-left-radius: 50px 
+          border-bottom-left-radius: 50px
+        &:last-child
+          border-top-right-radius: 50px 
+          border-bottom-right-radius: 50px
+        
+        
+
+.t6-bg
+  position: relative
+  &:before
+    content: ''
+    position: absolute
+    width: 80%
+    height: 100%
+    right: -20px
+    background: #F4EEE8
+    z-index: 0
+  img
+    z-index: 999
+    position: relative
 
 
 /* TEMA 3 */

@@ -8,7 +8,7 @@
       h1 Factores de contaminación de la carne en la cadena alimentaria
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-md-7.col-10.mb-4.mb-lg-0(data-aos="fade-right")
+      .col-lg-3.col-md-6.col-8.mb-4.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t2/1.svg', alt='')
       .col-lg-9(data-aos="fade-left")
         p A lo largo de la cadena alimentaria, la carne puede estar expuesta a diversos factores que comprometen su calidad e inocuidad. A continuación, se explican algunos de los principales agentes contaminantes presentes desde la etapa de producción primaria, así como las medidas necesarias para su control efectivo.
@@ -23,7 +23,7 @@
                 .col-lg-7
                   h4 Producción primaria
                   p En esta etapa inicial, la carne puede contaminarse tanto por agentes químicos como biológicos, los cuales representan riesgos significativos para la salud pública si no se aplican buenas prácticas pecuarias y controles veterinarios adecuados.
-                .col-lg-4.col-md-6
+                .col-lg-4.col-md-6.col-9
                   img(src='@/assets/curso/temas/t2/slide1.png', alt='')
               .row.justify-content-center.align-items-center
                 .col-lg-7
@@ -45,7 +45,7 @@
                     li
                       i.fas.fa-check-circle
                       | Nitrosaminas, compuestos potencialmente cancerígenos formados a partir de nitratos o nitritos mal gestionados.
-                .col-lg-4.col-md-6
+                .col-lg-4.col-md-6.col-9
                   img(src='@/assets/curso/temas/t2/slide2.png', alt='')
               .row.justify-content-center.align-items-center
                 .col-lg-7
@@ -72,7 +72,7 @@
                       i.fas.fa-check-circle
                       span.mb-0Hongos y levaduras contaminantes en condiciones inadecuadas de almacenamiento.
                   p La aplicación de medidas de bioseguridad, vigilancia veterinaria, higiene del entorno y control de insumos es fundamental para prevenir estas contaminaciones desde el origen.
-                .col-lg-4.col-md-6
+                .col-lg-4.col-md-6.col-9
                   img(src='@/assets/curso/temas/t2/slide3.png', alt='')
 
 
@@ -123,10 +123,10 @@
               i.fas.fa-check-circle
               span.mb-0.fst-italic Listeria monocytogenes.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-6.mb-3.mb-lg-0(data-aos="fade-right")
         p Medidas de control para prevenir la contaminación en la producción primaria:
-        ol.lista-ol--cuadroo.lista-ol--separador.fa-lista
+        ol.lista-ol--cuadro.lista-ol--separador.fa-lista
           li
             .lista-ol--cuadro__vineta
               span.fw-bold 1
@@ -151,7 +151,7 @@
             .lista-ol--cuadro__vineta
               span.fw-bold 6
             span.mb-0 Realizar el transporte al matadero de forma higiénica, segura y humanitaria, minimizando el estrés en los animales, ya que este influye directamente en la calidad microbiológica y fisicoquímica de la canal.
-      .col-lg-6.col-md-8.col-10(data-aos="fade-left")
+      .col-lg-6.col-md-7.col-10(data-aos="fade-left")
         img(src='@/assets/curso/temas/t2/3.png', alt='')
 
 
