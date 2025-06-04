@@ -14,7 +14,7 @@
       .col-lg-5.col-md-9.col-10(data-aos="fade-left")
         img(src='@/assets/curso/temas/t3/1.png', alt='')
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-lg-3.d-none.d-lg-block(data-aos="fade-right")
         img(src='@/assets/curso/temas/t3/2.png', alt='')
       .col-lg-9(data-aos="fade-left")
@@ -31,14 +31,13 @@
         p El control de estos riesgos depende de una adecuada higiene en la elaboración, almacenamiento en condiciones controladas de temperatura y humedad, y aplicación de buenas prácticas de manufactura (BPM); la alteración de estos alimentos es por lo general de tres tipos:      
 
 
-    .titulo-sexto.color-acento-contenido
+    //.titulo-sexto.color-acento-contenido
       h5 Figura 2. 
       span Alteraciones de los alimentos
 
     .row.justify-content-center.cursor-pointer.mb-5
       .col-xl-4.col-lg-4.col-md-6.col-11.mb-4.mb-xl-0
-        .crd_hover_txt.tarjeta(@mouseover="mostrarIndicador = false")
-          .indicador--hover(v-if="mostrarIndicador")
+        .crd_hover_txt.tarjeta
           .crd_hover_txt--img
             img(src="@/assets/curso/temas/t3/tarj1.png", alt="")
           .crd_hover_txt--body.text-center
@@ -53,13 +52,12 @@
             h4.mb-3 Agriado
             p.mb-0 Ocurre en el interior de las tripas, donde se fermenta la carne debido al crecimiento de bacterias ácido-lácticas como #[em lactobacillus] y #[em enterococcus]. Esta alteración es favorecida por la presencia de azúcares fermentables como lactosa, utilizados comúnmente como ingredientes en la formulación.
       .col-xl-4.col-lg-4.col-md-6.col-11.mb-4.mb-xl-0
-        .crd_hover_txt.tarjeta(@mouseover="mostrarIndicador = false")
-          .indicador--hover(v-if="mostrarIndicador")
+        .crd_hover_txt.tarjeta
           .crd_hover_txt--img
             img(src="@/assets/curso/temas/t3/tarj3.png", alt="")
           .crd_hover_txt--body.text-center
             h4.mb-3 Enverdecimiento
-            p.mb-0 Aparece en productos cárnicos que, tras haber sido conservados correctamente, son expuestos al aire. Este cambio de color se debe al desarrollo de microorganismos como #[em lactobacillus viridescens, leuconostoc spp]. Y #[em enterococcus spp.], que reaccionan con los pigmentos de la carne.
+            p.mb-0 Aparece en productos cárnicos que, tras haber sido conservados correctamente, son expuestos al aire. Este cambio de color se debe al desarrollo de microorganismos como #[em lactobacillus viridescens, leuconostoc spp]. y #[em enterococcus spp.], que reaccionan con los pigmentos de la carne.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-md-5.col-7.mb-4.mb-lg-0(data-aos="fade-right")

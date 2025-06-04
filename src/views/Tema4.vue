@@ -17,9 +17,9 @@
             .col-9.col-md-10
               h3.mb-0.text-white Control de calidad en el desollado, eviscerado e inspección sanitaria
         .row.justify-content-center.align-items-center.mb-5
-          .col-lg-3.col-md-3.col-5.mb-3.mb-md-0
-            img(src='@/assets/curso/temas/t4/2.svg', alt='')
-          .col-lg-9.col-md-9
+          .col-lg-4.col-md-3.col-5.mb-3.mb-md-0.pe-md-0
+            img(src='@/assets/curso/temas/t4/2.png', alt='')
+          .col-lg-8.col-md-9.ps-md-0
             p El control de calidad durante las etapas de desollado, eviscerado e inspección sanitaria es fundamental para garantizar la inocuidad de la carne y prevenir riesgos de contaminación, cada una de estas fases requiere rigurosas condiciones higiénicas y procedimientos estandarizados para evitar la transferencia de agentes patógenos a la canal.      
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t4/1.png', alt='')
@@ -28,19 +28,19 @@
       .col-lg-4.col-md-6.col-11.mb-3
         .tarjeta--boton.color-primario.t4.text-center.p-4.h-100
           .img-svg.mb-3
-            img(src='@/assets/curso/temas/t4/tarj.svg', alt='')
+            img(src='@/assets/curso/temas/t4/tarj1.svg', alt='')
           h4.bg-color-acento-contenido.text-white.py-1.px-5.w-fit.m-auto.mb-3 Desollado
           p Esta operación consiste en retirar la piel del animal una vez sacrificado. Dado que la piel suele contener suciedad y microorganismos provenientes del ambiente, del estiércol o del contacto con otras superficies, es imprescindible utilizar cuchillos exclusivos para esta etapa, evitando su uso posterior en zonas limpias. Los utensilios empleados en el sacrificio y el desuello, así como la ropa y manos del personal, deben mantenerse en condiciones óptimas de limpieza, ya que pueden convertirse en vehículos de contaminación cruzada entre canales, es esencial desinfectar equipos como cuchillos, sierras eléctricas, guantes de malla y raspadores, antes, durante y después de su uso.
       .col-lg-4.col-md-6.col-11.mb-3
         .tarjeta--boton.color-primario.t4.text-center.p-4.h-100
           .img-svg.mb-3
-            img(src='@/assets/curso/temas/t4/tarj.svg', alt='')
+            img(src='@/assets/curso/temas/t4/tarj2.svg', alt='')
           h4.bg-color-acento-contenido.text-white.py-1.px-5.w-fit.m-auto.mb-3 Eviscerado
           p Consiste en la extracción de las vísceras del animal, esta etapa es crítica desde el punto de vista higiénico, ya que el contenido del tracto gastrointestinal puede contaminar fácilmente la canal si se libera. Para minimizar el riesgo, deben seguirse estrictamente las buenas prácticas de manufactura (BPM), incluyendo el atado correcto del esófago y el recto antes de la extracción, asegurando así que no haya derrames de contenido intestinal durante la manipulación.
       .col-lg-4.col-md-6.col-11.mb-3
         .tarjeta--boton.color-primario.t4.text-center.p-4.h-100
           .img-svg.mb-3
-            img(src='@/assets/curso/temas/t4/tarj.svg', alt='')
+            img(src='@/assets/curso/temas/t4/tarj3.svg', alt='')
           h4.bg-color-acento-contenido.text-white.py-1.px-5.w-fit.m-auto.mb-3 Inspección veterinaria
           p Durante esta fase, el médico veterinario y los operarios deben verificar el estado sanitario de la canal y las vísceras, identificando posibles signos de enfermedades o anomalías. Es vital que las condiciones de trabajo favorezcan una inspección eficiente, evitando la contaminación cruzada entre utensilios, superficies y canales. Se debe supervisar el cumplimiento de las normas de higiene por parte del personal encargado, asegurando así la calidad sanitaria del producto final.
 
@@ -113,7 +113,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6(data-aos="fade-right")
         p El almacenamiento de productos cárnicos es una fase crítica en la cadena alimentaria, ya que influye directamente en su seguridad, calidad e inocuidad, debido a la naturaleza perecedera de la carne, es indispensable que se mantenga bajo condiciones óptimas de temperatura, higiene, ventilación y separación de productos, evitando cualquier situación que favorezca el desarrollo de microorganismos o la contaminación cruzada.
-        p Las carnes refrigeradas deben almacenarse a temperaturas inferiores a 7 °C, y las carnes congeladas a -18 °C o menos, sin romper la cadena de frío. Además, se deben considerar aspectos como la humedad relativa (75–85 %), la correcta circulación del aire frío y el uso de envases adecuados que protejan la carne durante su conservación.
+        p Las carnes refrigeradas deben almacenarse a temperaturas inferiores a 7 °C, y las carnes congeladas a -18 °C o menos, sin romper la cadena de frío. Además, se deben considerar aspectos como la humedad relativa (75 – 85 %), la correcta circulación del aire frío y el uso de envases adecuados que protejan la carne durante su conservación.
       .col-lg-6.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t4/4.png', alt='')
 
@@ -174,13 +174,15 @@
             .col-9.col-md-auto
               h3.mb-0.text-white Adecuación de la carne para el proceso
         .row.justify-content-center.align-items-center.mb-5
-          .col-lg-3.col-md-3.col-5.mb-3.mb-md-0
-            img(src='@/assets/curso/temas/t4/2.svg', alt='')
-          .col-lg-9.col-md-9
-            p La adecuación de la carne para el proceso, es la etapa en la que la carne como materia prima se prepara para su venta directa o para ser utilizada en la elaboración de derivados cárnicos, este proceso incluye diversas operaciones que deben realizarse bajo estrictas condiciones higiénico-sanitarias, ya que representan puntos críticos donde la carne puede contaminarse si no se aplican buenas prácticas de manipulación.
-            p Las principales operaciones de acondicionamiento son:
+          .col-lg-4.col-md-3.col-5.mb-3.mb-md-0.pe-md-0
+            img(src='@/assets/curso/temas/t4/7.svg', alt='')
+          .col-lg-8.col-md-9.ps-md-0
+            p La adecuación de la carne para el proceso, es la etapa en la que la carne como materia prima se prepara para su venta directa o para ser utilizada en la elaboración de derivados cárnicos, este proceso incluye diversas operaciones que deben realizarse bajo estrictas condiciones higiénico-sanitarias, ya que representan puntos críticos donde la carne puede contaminarse si no se aplican buenas prácticas de manipulación.            
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t4/6.png', alt='')
+
+    .subt2.mb-4(data-aos="fade")
+      h4.mb-0.ct-1 Las principales operaciones de acondicionamiento son:
 
     TabsC.color-acento-contenido(data-aos="fade-down")
       .bg6.py-4.py-md-5(titulo="Despiece")

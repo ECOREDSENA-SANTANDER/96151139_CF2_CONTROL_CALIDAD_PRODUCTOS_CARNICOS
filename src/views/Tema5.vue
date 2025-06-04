@@ -21,56 +21,56 @@
         SlyderF.circl-arrow(columnas="col-lg-6 col-xl-6")
           .tarjeta.bg-white.p-4.py-lg-5
             .row.justify-content-center.mb-4
-              .col-lg-4.col-md-3.col-5
+              .col-lg-5.col-md-4.col-6
                 img(src='@/assets/curso/temas/t5/tarj1.svg' alt='')
             h4.bg-color-acento-contenido.text-center.text-white.py-1.px-2.w-75.m-auto.mb-3 Verificar el origen de las carnes
             p.text-center.mb-0 Deben ser de alta calidad y proceder de centros de sacrificio autorizados por las autoridades sanitarias competentes.
           .tarjeta.bg-white.p-4.py-lg-5
             .row.justify-content-center.mb-4
-              .col-lg-4.col-md-3.col-5
-                img(src='@/assets/curso/temas/t5/tarj1.svg' alt='')
+              .col-lg-5.col-md-4.col-6
+                img(src='@/assets/curso/temas/t5/tarj2.svg' alt='')
             h4.bg-color-acento-contenido.text-center.text-white.py-1 Recepción en condiciones adecuadas
             p.text-center.mb-0 Las materias primas deben recibirse en condiciones higiénicas y de temperatura controlada, para evitar alteraciones o contaminación.
           .tarjeta.bg-white.p-4.py-lg-5
             .row.justify-content-center.mb-4
-              .col-lg-4.col-md-3.col-5
-                img(src='@/assets/curso/temas/t5/tarj1.svg' alt='')
+              .col-lg-5.col-md-4.col-6
+                img(src='@/assets/curso/temas/t5/tarj3.svg' alt='')
             h4.bg-color-acento-contenido.text-center.text-white.py-1.px-2.w-75.m-auto.mb-3 Contar con fichas técnicas
             p.text-center.mb-0 Toda materia prima debe estar acompañada de documentación técnica que detalle sus características, condiciones de uso y conservación.
           .tarjeta.bg-white.p-4.py-lg-5
             .row.justify-content-center.mb-4
-              .col-lg-4.col-md-3.col-5
-                img(src='@/assets/curso/temas/t5/tarj1.svg' alt='')
+              .col-lg-5.col-md-4.col-6
+                img(src='@/assets/curso/temas/t5/tarj4.svg' alt='')
             h4.bg-color-acento-contenido.text-center.text-white.py-1.px-2.w-75.m-auto.mb-3 Realizar inspección de calidad
             p.text-center.mb-0 Antes de su uso, las materias primas deben ser sometidas a inspecciones visuales y documentales para confirmar que cumplen con los requisitos establecidos en los protocolos de calidad del proceso.
           .tarjeta.bg-white.p-4.py-lg-5
             .row.justify-content-center.mb-4
-              .col-lg-4.col-md-3.col-5
-                img(src='@/assets/curso/temas/t5/tarj1.svg' alt='')
+              .col-lg-5.col-md-4.col-6
+                img(src='@/assets/curso/temas/t5/tarj5.svg' alt='')
             h4.bg-color-acento-contenido.text-center.text-white.py-1.px-2.w-75.m-auto.mb-3 Uso adecuado de aditivos
             p.text-center.mb-0 Los aditivos deben estar autorizados por normativas nacionales (como la Resolución 2652 de 2004 en Colombia) y utilizarse únicamente en las concentraciones permitidas para evitar efectos adversos en la salud del consumidor.
           .tarjeta.bg-white.p-4.py-lg-5
             .row.justify-content-center.mb-4
-              .col-lg-4.col-md-3.col-5
-                img(src='@/assets/curso/temas/t5/tarj1.svg' alt='')
+              .col-lg-5.col-md-4.col-6
+                img(src='@/assets/curso/temas/t5/tarj6.svg' alt='')
             h4.bg-color-acento-contenido.text-center.text-white.py-1.px-3.w-75.m-auto.mb-3 Descongelación segura
             p.text-center.mb-0 Las materias primas congeladas deben descongelarse con métodos controlados (refrigeración o microondas industriales), evitando la exposición a temperaturas peligrosas. Una vez descongeladas, no deben volver a congelar.
           .tarjeta.bg-white.p-4.py-lg-5
             .row.justify-content-center.mb-4
-              .col-lg-4.col-md-3.col-5
-                img(src='@/assets/curso/temas/t5/tarj1.svg' alt='')
+              .col-lg-5.col-md-4.col-6
+                img(src='@/assets/curso/temas/t5/tarj7.svg' alt='')
             h4.bg-color-acento-contenido.text-center.text-white.py-1.px-2.w-75.m-auto.mb-3 Almacenamiento higiénico
             p.text-center.mb-0 Las materias primas e insumos deben almacenarse en condiciones que eviten cualquier riesgo de contaminación, ya sea física, química o biológica.
           .tarjeta.bg-white.p-4.py-lg-5
             .row.justify-content-center.mb-4
-              .col-lg-4.col-md-3.col-5
-                img(src='@/assets/curso/temas/t5/tarj1.svg' alt='')
+              .col-lg-5.col-md-4.col-6
+                img(src='@/assets/curso/temas/t5/tarj8.svg' alt='')
             h4.bg-color-acento-contenido.text-center.text-white.py-1.px-3.w-75.m-auto.mb-3 Separación de productos
             p.text-center.mb-0 Es obligatorio almacenar materias primas y productos terminados en áreas diferentes, con el fin de evitar contaminación cruzada.
           .tarjeta.bg-white.p-4.py-lg-5
             .row.justify-content-center.mb-4
-              .col-lg-4.col-md-3.col-5.col-4
-                img(src='@/assets/curso/temas/t5/tarj1.svg' alt='')
+              .col-lg-5.col-md-4.col-6
+                img(src='@/assets/curso/temas/t5/tarj9.svg' alt='')
             h4.bg-color-acento-contenido.text-center.text-white.py-1.px-3.w-75.m-auto.mb-3 Zonificación adecuada
             p.text-center.mb-0 Las áreas de recepción de materias primas deben estar físicamente separadas de las zonas de producción, garantizando un flujo unidireccional y seguro dentro de la planta.
 
@@ -106,7 +106,38 @@
     p.mb-5 El cumplimiento de estas medidas no solo responde a exigencias normativas, sino que constituye un pilar fundamental para asegurar alimentos seguros, estables y de alta calidad en toda la cadena de producción.
 
 
-    .row.bgc-3.align-items-center.p-2.p-md-3(data-aos="fade-down")
+    .row.bgc-2.align-items-center.p-3.p-lg-5.mb-4(data-aos="fade-down")
+      .col-lg-12.col-12.px-lg-4
+        .row.justify-content-center.align-items-center
+
+          .tarjeta.tarjeta--blanca.p-4
+            SlyderA(tipo="b")
+              .row.justify-content-center.align-items-center
+                .col-lg-6.mb-4.mb-lg-0
+                  .subt.mb-4
+                    .row.align-items-center
+                      .col-3.col-md-auto
+                        img(src='@/assets/curso/temas/t1/subt.svg', alt='')
+                      .col-9.col-md-auto
+                        h3.mb-0.text-white Almacenamiento, distribución y venta
+                  p Las operaciones de almacenamiento, distribución y venta de productos cárnicos deben cumplir con condiciones estrictas que garanticen la inocuidad, calidad y trazabilidad del alimento, estas etapas son fundamentales para preservar la integridad del producto final hasta que llegue al consumidor.
+                  p El almacenamiento de productos terminados debe realizarse de manera que se minimice el deterioro y se evite cualquier riesgo sanitario, para ello, es obligatorio llevar registros actualizados que incluyan información sobre el uso previsto, procedencia, fecha de elaboración, ciclo de vida, salidas y control de calidad del producto.
+                .col-lg-5.col-md-9
+                  img(src='@/assets/curso/temas/t5/6.png', alt='')
+              .row.justify-content-center.align-items-center  
+                .col-lg-6.mb-4.mb-lg-0                  
+                  p Los productos deben ser almacenados en estibas o tarimas sanitarias, manteniendo una separación mínima de 60 cm con respecto a las paredes y una elevación de al menos 15 cm del suelo, lo cual facilita la ventilación, inspección y limpieza de las áreas.
+                  p Los espacios destinados al almacenamiento deben ser de uso exclusivo para alimentos, sin permitir actividades ajenas que comprometan su seguridad, en caso de productos devueltos por vencimiento o no conformidad, se debe destinar un área específica, claramente señalizada, donde se registre la fecha de elaboración, salidas parciales o totales, y destino final, bajo ninguna circunstancia estos productos deben ser reprocesados o nuevamente envasados, ya que representan un riesgo para la salud pública.
+                .col-lg-5.col-md-9
+                  img(src='@/assets/curso/temas/t5/8.png', alt='')
+              .row.justify-content-center.align-items-center  
+                .col-lg-6.mb-4.mb-lg-0                  
+                  p La distribución de productos cárnicos debe realizarse en condiciones sanitarias óptimas, utilizando vehículos habilitados que mantengan las temperaturas de conservación adecuadas según el tipo de producto (refrigerado o congelado), garantizando así la continuidad de la cadena de frío durante todo el trayecto.
+                .col-lg-5.col-md-9
+                  img(src='@/assets/curso/temas/t5/9.png', alt='')
+
+
+    //.row.bgc-3.align-items-center.p-2.p-md-3(data-aos="fade-down")
       .col-lg-12.col-12.px-lg-4
         .row.justify-content-center.align-items-center
           

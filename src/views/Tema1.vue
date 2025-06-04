@@ -45,7 +45,7 @@
           .titulo-sexto.color-acento-contenido
             h5 Figura 1. 
             span Diagrama de flujo de cómo se puede contaminar la carne
-        .col-lg-5.col-md-9.mb-3
+        .col-lg-6.col-md-10.mb-3
           figure
             img(src='@/assets/curso/temas/t1/fig1.svg', alt='Diagrama de flujo que muestra las etapas en las que la carne puede contaminarse: desde la producción primaria, matadero, transporte, sala de despiece o carnicería, hasta el almacenamiento, elaboración, exposición y venta.')
         .col-12
@@ -58,7 +58,9 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-0.ct-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento:
+                p.mb-0.ct-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento: 
+                  br 
+                  | Evaluación de la calidad de carnes frescas.
               .col-auto.mb-3.mb-sm-0
                 a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Evaluacion_calidad_carnes_frescas.pdf')" target="_blank" type="application/pdf")
                   span Descargar 

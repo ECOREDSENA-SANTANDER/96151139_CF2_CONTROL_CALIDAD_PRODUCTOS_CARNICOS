@@ -13,7 +13,7 @@
       .col-lg-9(data-aos="fade-left")
         p A lo largo de la cadena alimentaria, la carne puede estar expuesta a diversos factores que comprometen su calidad e inocuidad. A continuación, se explican algunos de los principales agentes contaminantes presentes desde la etapa de producción primaria, así como las medidas necesarias para su control efectivo.
 
-    .row.bgc-2.align-items-center.p-3.p-lg-5.mb-5(data-aos="fade-down")
+    .row.bgc-2.align-items-center.p-3.p-lg-5.mb-4(data-aos="fade-down")
       .col-lg-12.col-12.px-lg-4
         .row.justify-content-center.align-items-center
 
@@ -50,30 +50,31 @@
               .row.justify-content-center.align-items-center
                 .col-lg-7
                   h4 Contaminación biológica
-                  p La carne es un alimento altamente perecedero debido a su elevado contenido de nutrientes, los cuales favorecen el crecimiento de microorganismos patógenos y alterantes, esta contaminación puede originarse en el propio animal o transmitirse por medio de vectores como roedores, moscas, utensilios contaminados, agua, forrajes, manipuladores o el ambiente en general.
-                  p Entre los microorganismos más comunes asociados a la carne se encuentran:
-                  ul.lista-ul--color.fa-lista
-                    li.mb-0
-                      i.fas.fa-check-circle
-                      span.mb-0.fst-italic Salmonella spp.
-                    li.mb-0
-                      i.fas.fa-check-circle
-                      span.mb-0 #[em Escherichia colispan] (especialmente la cepa O157:H7).
-                    li.mb-0
-                      i.fas.fa-check-circle
-                      span.mb-0.fst-italic Listeria monocytogenes.
-                    li.mb-0
-                      i.fas.fa-check-circle
-                      span.mb-0.fst-italic Clostridium perfringens.
-                    li.mb-0
-                      i.fas.fa-check-circle
-                      span.mb-0.fst-italic Staphylococcus aureus.
-                    li
-                      i.fas.fa-check-circle
-                      span.mb-0Hongos y levaduras contaminantes en condiciones inadecuadas de almacenamiento.
-                  p La aplicación de medidas de bioseguridad, vigilancia veterinaria, higiene del entorno y control de insumos es fundamental para prevenir estas contaminaciones desde el origen.
+                  p La carne es un alimento altamente perecedero debido a su elevado contenido de nutrientes, los cuales favorecen el crecimiento de microorganismos patógenos y alterantes, esta contaminación puede originarse en el propio animal o transmitirse por medio de vectores como roedores, moscas, utensilios contaminados, agua, forrajes, manipuladores o el ambiente en general.                                   
                 .col-lg-4.col-md-6.col-9
                   img(src='@/assets/curso/temas/t2/slide3.png', alt='')
+
+    p Entre los microorganismos más comunes asociados a la carne se encuentran:
+    ul.lista-ul--color.fa-lista
+      li.mb-0
+        i.fas.fa-check-circle
+        span.mb-0.fst-italic Salmonella spp.
+      li.mb-0
+        i.fas.fa-check-circle
+        span.mb-0 #[em Escherichia colispan] (especialmente la cepa O157:H7).
+      li.mb-0
+        i.fas.fa-check-circle
+        span.mb-0.fst-italic Listeria monocytogenes.
+      li.mb-0
+        i.fas.fa-check-circle
+        span.mb-0.fst-italic Clostridium perfringens.
+      li.mb-0
+        i.fas.fa-check-circle
+        span.mb-0.fst-italic Staphylococcus aureus.
+      li
+        i.fas.fa-check-circle
+        span.mb-0 Hongos Levaduras contaminantes en condiciones inadecuadas de almacenamiento.
+    p.mb-5 La aplicación de medidas de bioseguridad, vigilancia veterinaria, higiene del entorno y control de insumos es fundamental para prevenir estas contaminaciones desde el origen.    
 
 
     .subt.mb-4(data-aos="fade-right")
@@ -88,7 +89,7 @@
     .bg1.p-4.mb-5(data-aos="fade-down")
       .row.justify-content-center.align-items-center
         .col-lg-4
-          p Parásitos comunes asociados a la carne:
+          h5 Parásitos comunes asociados a la carne:
           ul.lista-ul--color.fa-lista
             li.mb-1
               i.fas.fa-check-circle
@@ -108,7 +109,7 @@
         .col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/t2/2.svg', alt='')
         .col-lg-4
-          p Bacterias frecuentemente encontradas en la carne:
+          h5 Bacterias frecuentemente encontradas en la carne:
           ul.lista-ul--color.fa-lista
             li
               i.fas.fa-check-circle
