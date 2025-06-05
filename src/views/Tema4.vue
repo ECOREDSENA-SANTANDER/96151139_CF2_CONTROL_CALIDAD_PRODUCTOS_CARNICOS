@@ -82,9 +82,11 @@
       .col-lg-4(data-aos="fade-right")
         p El cumplimiento de estas medidas es fundamental para garantizar la seguridad alimentaria y preservar las propiedades organolépticas del producto hasta su destino final.
       .col-lg-6(data-aos="fade-left")
-        h5 Temperaturas adecuadas en el transporte
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Tabla 1. 
+          span Temperaturas adecuadas en el transporte
         .tabla-a.color-acento-contenido.t4
-          table
+          table(alt="La tabla muestra los rangos máximos de temperatura permitidos durante el transporte, según el tipo de carne, para garantizar su inocuidad y conservación.")
             thead
               tr
                 th Producto

@@ -73,7 +73,7 @@
         span.mb-0.fst-italic Staphylococcus aureus.
       li
         i.fas.fa-check-circle
-        span.mb-0 Hongos Levaduras contaminantes en condiciones inadecuadas de almacenamiento.
+        span.mb-0 Hongos y levaduras contaminantes en condiciones inadecuadas de almacenamiento.
     p.mb-5 La aplicación de medidas de bioseguridad, vigilancia veterinaria, higiene del entorno y control de insumos es fundamental para prevenir estas contaminaciones desde el origen.    
 
 

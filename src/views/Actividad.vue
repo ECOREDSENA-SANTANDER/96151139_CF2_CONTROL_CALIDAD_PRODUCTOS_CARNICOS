@@ -20,7 +20,7 @@ export default {
       tema: 'Más allá del sabor: prevención y seguridad en productos cárnicos.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Evaluar la comprensión de los conceptos fundamentales del componente más allá del sabor: prevención y seguridad en productos cárnicos. ',
+        '<b>Objetivo:</b> evaluar la comprensión de los conceptos fundamentales del componente más allá del sabor: prevención y seguridad en productos cárnicos. ',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',

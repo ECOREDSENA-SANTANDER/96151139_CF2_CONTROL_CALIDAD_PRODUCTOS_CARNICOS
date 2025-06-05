@@ -57,7 +57,7 @@
             img(src="@/assets/curso/temas/t3/tarj3.png", alt="")
           .crd_hover_txt--body.text-center
             h4.mb-3 Enverdecimiento
-            p.mb-0 Aparece en productos cárnicos que, tras haber sido conservados correctamente, son expuestos al aire. Este cambio de color se debe al desarrollo de microorganismos como #[em lactobacillus viridescens, leuconostoc spp]. y #[em enterococcus spp.], que reaccionan con los pigmentos de la carne.
+            p.mb-0 Es una alteración que aparece en productos cárnicos después de haber sido conservados adecuadamente y luego expuestos al aire. El cambio de color se debe al desarrollo de microorganismos como #[em lactobacillus viridescens, leuconostoc spp] y #[em enterococcus spp], los cuales interactúan con los pigmentos naturales de la carne. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-md-5.col-7.mb-4.mb-lg-0(data-aos="fade-right")
