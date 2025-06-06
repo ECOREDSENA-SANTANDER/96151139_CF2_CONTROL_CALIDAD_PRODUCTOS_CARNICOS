@@ -60,7 +60,7 @@
               .col.mb-3.mb-sm-0
                 p.mb-0.ct-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento: 
                   br 
-                  | Evaluación de la calidad de carnes frescas.
+                  | evaluación de la calidad de carnes frescas.
               .col-auto.mb-3.mb-sm-0
                 a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Evaluacion_calidad_carnes_frescas.pdf')" target="_blank" type="application/pdf")
                   span Descargar 

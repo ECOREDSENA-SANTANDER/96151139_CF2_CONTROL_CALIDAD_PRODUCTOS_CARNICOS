@@ -166,7 +166,7 @@
             .col.mb-3.mb-sm-0
               p.mb-0.ct-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento:
                 br
-                | Buenas practicas para la industria de la carne.
+                | buenas practicas para la industria de la carne.
             .col-auto.mb-3.mb-sm-0
               a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Buenas_practicas_industria_carne.pdf')" target="_blank" type="application/pdf")
                 span Descargar 
