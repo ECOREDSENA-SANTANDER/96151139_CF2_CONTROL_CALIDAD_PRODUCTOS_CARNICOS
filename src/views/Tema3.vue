@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Microorganismos alterantes en los embutido
+      h1 Microorganismos alterantes en los embutidos
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7(data-aos="fade-right")
@@ -28,7 +28,7 @@
           .row.justify-content-center.text-white(titulo="Alteración por mohos")
             .col-md-11.col-12
               p.mb-0 Generalmente visible en la superficie, puede cambiar el color del embutido y, en algunos casos, producir micotoxinas si no se controla adecuadamente.
-        p El control de estos riesgos depende de una adecuada higiene en la elaboración, almacenamiento en condiciones controladas de temperatura y humedad, y aplicación de buenas prácticas de manufactura (BPM); la alteración de estos alimentos es por lo general de tres tipos:      
+        p El control de estos riesgos depende de una adecuada higiene en la elaboración, almacenamiento en condiciones controladas de temperatura y humedad, y aplicación de Buenas Prácticas de Manufactura (BPM); la alteración de estos alimentos es por lo general de tres tipos:      
 
 
     //.titulo-sexto.color-acento-contenido
@@ -50,14 +50,14 @@
             img(src="@/assets/curso/temas/t3/tarj2.png", alt="")
           .crd_hover_txt--body.text-center
             h4.mb-3 Agriado
-            p.mb-0 Ocurre en el interior de las tripas, donde se fermenta la carne debido al crecimiento de bacterias ácido-lácticas como #[em lactobacillus] y #[em enterococcus]. Esta alteración es favorecida por la presencia de azúcares fermentables como lactosa, utilizados comúnmente como ingredientes en la formulación.
+            p.mb-0 Ocurre en el interior de las tripas, donde se fermenta la carne debido al crecimiento de bacterias ácido - lácticas como #[em Lactobacillus] y #[em Enterococcus]. Esta alteración es favorecida por la presencia de azúcares fermentables como lactosa, utilizados comúnmente como ingredientes en la formulación.
       .col-xl-4.col-lg-4.col-md-6.col-11.mb-4.mb-xl-0
         .crd_hover_txt.tarjeta
           .crd_hover_txt--img
             img(src="@/assets/curso/temas/t3/tarj3.png", alt="")
           .crd_hover_txt--body.text-center
             h4.mb-3 Enverdecimiento
-            p.mb-0 Es una alteración que aparece en productos cárnicos después de haber sido conservados adecuadamente y luego expuestos al aire. El cambio de color se debe al desarrollo de microorganismos como #[em lactobacillus viridescens, leuconostoc spp] y #[em enterococcus spp], los cuales interactúan con los pigmentos naturales de la carne. 
+            p.mb-0 Es una alteración que aparece en productos cárnicos después de haber sido conservados adecuadamente y luego expuestos al aire. El cambio de color se debe al desarrollo de microorganismos como #[em Lactobacillus viridescens, Leuconostoc spp.] y #[em Enterococcus spp.], los cuales interactúan con los pigmentos naturales de la carne. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-md-5.col-7.mb-4.mb-lg-0(data-aos="fade-right")
@@ -79,7 +79,7 @@
       .col-lg-7.ps-lg-0
         .p-4.px-lg-5.bg5.h-100
           h4.bg-color-acento-contenido.text-white.px-2.w-fit Microorganismos alterantes en carnes curadas
-          p.mb-0 En las carnes curadas, la contaminación bacteriana puede surgir en las primeras etapas del proceso, antes de que el producto alcance niveles bajos de PH y actividad de agua que impidan el crecimiento microbiano, el desarrollo de mohos sobre el producto final no solo afecta su apariencia, sino que también puede generar olores y sabores indeseables; para evitarlo, se recomienda el empaque al vacío o el uso de atmósferas modificadas. En productos como los jamones crudos, la falta de concentración adecuada de sal y temperaturas de curado insuficientemente bajas pueden favorecer el desarrollo de patógenos peligrosos como #[em clostridium botulinum] y diversas enterobacterias, estas condiciones subóptimas pueden comprometer seriamente la seguridad del alimento.
+          p.mb-0 En las carnes curadas, la contaminación bacteriana puede surgir en las primeras etapas del proceso, antes de que el producto alcance niveles bajos de pH y actividad de agua que impidan el crecimiento microbiano, el desarrollo de mohos sobre el producto final no solo afecta su apariencia, sino que también puede generar olores y sabores indeseables; para evitarlo, se recomienda el empaque al vacío o el uso de atmósferas modificadas. En productos como los jamones crudos, la falta de concentración adecuada de sal y temperaturas de curado insuficientemente bajas pueden favorecer el desarrollo de patógenos peligrosos como #[em Clostridium botulinum] y diversas enterobacterias, estas condiciones subóptimas pueden comprometer seriamente la seguridad del alimento.
 
 
 </template>

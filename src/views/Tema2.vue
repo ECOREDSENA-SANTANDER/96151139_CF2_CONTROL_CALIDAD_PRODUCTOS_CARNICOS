@@ -61,7 +61,7 @@
         span.mb-0.fst-italic Salmonella spp.
       li.mb-0
         i.fas.fa-check-circle
-        span.mb-0 #[em Escherichia colispan] (especialmente la cepa O157:H7).
+        span.mb-0 #[em Escherichia coli] (especialmente la cepa O157:H7).
       li.mb-0
         i.fas.fa-check-circle
         span.mb-0.fst-italic Listeria monocytogenes.
@@ -139,7 +139,7 @@
           li
             .lista-ol--cuadro__vineta
               span.fw-bold 3
-            span.mb-0 Aplicar de manera constante las buenas prácticas ganaderas (BPG), incluyendo el control sanitario, la trazabilidad y el bienestar animal.
+            span.mb-0 Aplicar de manera constante las Buenas Prácticas Ganaderas (BPG), incluyendo el control sanitario, la trazabilidad y el bienestar animal.
           li
             .lista-ol--cuadro__vineta
               span.fw-bold 4

@@ -101,7 +101,7 @@
       .col-lg-3.col-md-5.col-8.mb-4.mb-lg-0(data-aos="fade-right")
         img(src='@/assets/curso/temas/t5/5.svg', alt='')
       .col-lg-9(data-aos="fade-left")
-        p En procesos como el secado y maduración, es igualmente necesario controlar el tiempo y la temperatura, ya que de ello depende la inhibición del crecimiento microbiano y la correcta fermentación del producto, Además, los productos devueltos al área de proceso por problemas de inocuidad o vencimiento no deben, Bajo ninguna circunstancia se deben envasar nuevamente ni reprocesar los productos, ya que ello representa un riesgo sanitario para el consumidor final y afecta la integridad del sistema de calidad.
+        p En procesos como el secado y la maduración, es fundamental controlar de manera rigurosa el tiempo y la temperatura, ya que de ello depende tanto la inhibición del crecimiento microbiano como la fermentación adecuada del producto. Por otro lado, los productos que sean devueltos al área de proceso debido a problemas de inocuidad o vencimiento no deben ser envasados nuevamente ni reprocesados bajo ninguna circunstancia, ya que ello representa un riesgo sanitario para el consumidor final y compromete la integridad del sistema de gestión de calidad. 
 
     p.mb-5 El cumplimiento de estas medidas no solo responde a exigencias normativas, sino que constituye un pilar fundamental para asegurar alimentos seguros, estables y de alta calidad en toda la cadena de producción.
 
@@ -134,7 +134,7 @@
                 .col-lg-6.mb-4.mb-lg-0                  
                   p La distribución de productos cárnicos debe realizarse en condiciones sanitarias óptimas, utilizando vehículos habilitados que mantengan las temperaturas de conservación adecuadas según el tipo de producto (refrigerado o congelado), garantizando así la continuidad de la cadena de frío durante todo el trayecto.
                 .col-lg-5.col-md-9
-                  img(src='@/assets/curso/temas/t5/9.png', alt='')
+                  img(src='@/assets/curso/temas/t5/10.png', alt='')
 
 
     //.row.bgc-3.align-items-center.p-2.p-md-3(data-aos="fade-down")

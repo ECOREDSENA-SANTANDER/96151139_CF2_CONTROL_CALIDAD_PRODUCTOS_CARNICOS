@@ -36,7 +36,7 @@
           .img-svg.mb-3
             img(src='@/assets/curso/temas/t4/tarj2.svg', alt='')
           h4.bg-color-acento-contenido.text-white.py-1.px-5.w-fit.m-auto.mb-3 Eviscerado
-          p Consiste en la extracción de las vísceras del animal, esta etapa es crítica desde el punto de vista higiénico, ya que el contenido del tracto gastrointestinal puede contaminar fácilmente la canal si se libera. Para minimizar el riesgo, deben seguirse estrictamente las buenas prácticas de manufactura (BPM), incluyendo el atado correcto del esófago y el recto antes de la extracción, asegurando así que no haya derrames de contenido intestinal durante la manipulación.
+          p Consiste en la extracción de las vísceras del animal, esta etapa es crítica desde el punto de vista higiénico, ya que el contenido del tracto gastrointestinal puede contaminar fácilmente la canal si se libera. Para minimizar el riesgo, deben seguirse estrictamente las Buenas Prácticas de Manufactura (BPM), incluyendo el atado correcto del esófago y el recto antes de la extracción, asegurando así que no haya derrames de contenido intestinal durante la manipulación.
       .col-lg-4.col-md-6.col-11.mb-3
         .tarjeta--boton.color-primario.t4.text-center.p-4.h-100
           .img-svg.mb-3
@@ -86,7 +86,7 @@
           h5 Tabla 1. 
           span Temperaturas adecuadas en el transporte
         .tabla-a.color-acento-contenido.t4
-          table(alt="La tabla muestra los rangos máximos de temperatura permitidos durante el transporte, según el tipo de carne, para garantizar su inocuidad y conservación.")
+          table(alt="La tabla presenta los rangos máximos de temperatura permitidos durante el transporte, según el tipo de carne, para garantizar su inocuidad y conservación.")
             thead
               tr
                 th Producto
@@ -164,7 +164,7 @@
         .col-lg-1.col-md-2.col-4.mb-3.mb-md-0
           img(src='@/assets/curso/temas/t4/5.svg', alt='')
         .col-lg-10.col-md-10
-          p.mb-0 #[b Normatividad vigente:] según el #[b Decreto 1500 de 2007] y la #[b Resolución 2674 de 2013] del ministerio de salud y protección social de Colombia, los establecimientos que manipulan, almacenan o comercializan productos cárnicos deben cumplir con condiciones sanitarias específicas que garanticen la conservación segura de los alimentos y prevengan cualquier riesgo para la salud del consumidor.
+          p.mb-0 #[b Normatividad vigente:] según el #[b Decreto 1500 de 2007] y la #[b Resolución 2674 de 2013] del Ministerio de Salud y Protección Social de Colombia, los establecimientos que manipulan, almacenan o comercializan productos cárnicos deben cumplir con condiciones sanitarias específicas que garanticen la conservación segura de los alimentos y prevengan cualquier riesgo para la salud del consumidor.
 
 
     .row.justify-content-center.align-items-center.mb-5
@@ -179,7 +179,7 @@
           .col-lg-4.col-md-3.col-5.mb-3.mb-md-0.pe-md-0
             img(src='@/assets/curso/temas/t4/7.svg', alt='')
           .col-lg-8.col-md-9.ps-md-0
-            p La adecuación de la carne para el proceso, es la etapa en la que la carne como materia prima se prepara para su venta directa o para ser utilizada en la elaboración de derivados cárnicos, este proceso incluye diversas operaciones que deben realizarse bajo estrictas condiciones higiénico-sanitarias, ya que representan puntos críticos donde la carne puede contaminarse si no se aplican buenas prácticas de manipulación.            
+            p La adecuación de la carne para el proceso, es la etapa en la que la carne como materia prima se prepara para su venta directa o para ser utilizada en la elaboración de derivados cárnicos, este proceso incluye diversas operaciones que deben realizarse bajo estrictas condiciones higiénico - sanitarias, ya que representan puntos críticos donde la carne puede contaminarse si no se aplican buenas prácticas de manipulación.            
       .col-lg-5.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t4/6.png', alt='')
 
@@ -231,7 +231,7 @@
           .col-md-6.col-10
             h4 Picado
             p Se lleva a cabo con máquinas picadoras o cuchillos especializados, esta operación es especialmente sensible a la contaminación, ya que los residuos de carne que quedan en los equipos pueden convertirse en focos de proliferación microbiana si no se limpian y desinfectan de manera inmediata y adecuada tras cada uso. Se recomienda desmontar y sanitizar completamente la máquina al finalizar cada jornada o cambio de lote.
-            p Todas estas operaciones deben realizarse respetando las buenas prácticas de manufactura (BPM) y los protocolos establecidos por la normativa sanitaria vigente, la higiene del personal, el estado de los utensilios y la limpieza de las superficies de trabajo son factores clave para preservar la calidad, seguridad y vida útil de la carne durante su acondicionamiento.
+            p Todas estas operaciones deben realizarse respetando las Buenas Prácticas de Manufactura (BPM) y los protocolos establecidos por la normativa sanitaria vigente, la higiene del personal, el estado de los utensilios y la limpieza de las superficies de trabajo son factores clave para preservar la calidad, seguridad y vida útil de la carne durante su acondicionamiento.
 
 
 

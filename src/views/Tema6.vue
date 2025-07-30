@@ -126,7 +126,7 @@
                   img(src='@/assets/curso/temas/t6/slide3.png', alt='')
               .row.justify-content-center.align-items-center  
                 .col-lg-6.mb-4.mb-lg-0                  
-                  p La elaboración de productos cárnicos exige el cumplimiento riguroso de prácticas higiénico-sanitarias, controles de calidad y condiciones tecnológicas específicas en cada etapa del proceso, desde la recepción de materias primas hasta la distribución del producto final. La correcta manipulación de la carne, el uso adecuado de ingredientes y aditivos, el mantenimiento de la cadena de frío, la limpieza y desinfección de equipos, así como la aplicación de buenas prácticas por parte del personal, son pilares fundamentales para garantizar alimentos seguros, estables y de alta calidad.
+                  p La elaboración de productos cárnicos exige el cumplimiento riguroso de prácticas higiénico - sanitarias, controles de calidad y condiciones tecnológicas específicas en cada etapa del proceso, desde la recepción de materias primas hasta la distribución del producto final. La correcta manipulación de la carne, el uso adecuado de ingredientes y aditivos, el mantenimiento de la cadena de frío, la limpieza y desinfección de equipos, así como la aplicación de buenas prácticas por parte del personal, son pilares fundamentales para garantizar alimentos seguros, estables y de alta calidad.
                 .col-lg-5.col-md-9
                   img(src='@/assets/curso/temas/t6/slide4.png', alt='')
 
@@ -164,7 +164,8 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              p.mb-0.ct-1 Para fortalecer el tema anteriormente plasmado, se recomienda revisar el siguiente documento: buenas practicas para la industria de la carne.
+              h4.mb-1.ct-1 Buenas prácticas para la industria de la carne
+              p.mb-0.ct-1 Para fortalecer el tema anteriormente abordado, se recomiendo revisar el siguiente documento: 
             .col-auto.mb-3.mb-sm-0
               a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Buenas_practicas_industria_carne.pdf')" target="_blank" type="application/pdf")
                 span Descargar 

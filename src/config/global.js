@@ -105,7 +105,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CF2_96151139_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -131,7 +131,7 @@ export default {
     {
       tema: 'Prácticas higiénicas en áreas de proceso. ',
       referencia:
-        'FAO. (2007). Buenas prácticas para la industria de la carne. Organización de las Naciones Unidas para la Agricultura y la Alimentación.',
+        'Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO) & Fundación Internacional Carrefour. (2007). Buenas prácticas para la industria de la carne.',
       tipo: 'Documento',
       descarga: 'downloads/Buenas_practicas_industria_carne.pdf',
     },
@@ -217,7 +217,7 @@ export default {
     },
     {
       referencia:
-        'Gomez, M. B. (s. f.). Tematico8.Asturias.es export sites default Consumo SeguridadAlimentaria Seguridad-Alimentaria-Documentos FICHAS AUTOCONTROL xPDFx. Scribd.',
+        'Burgos Gomez, M. (s.f.). Anexo I Fichas autocontrol. Guia de ayuda para el autocontrol en panaderías y pastelerias artesanales. SCRIBD.',
       link:
         'https://es.scribd.com/document/177531101/Tematico8-Asturias-es-Export-Sites-Default-Consumo-SeguridadAlimentaria-Seguridad-Alimentaria-documentos-FICHAS-AUTOCONTROL-xPDFx',
     },
@@ -231,7 +231,7 @@ export default {
     },
     {
       referencia:
-        'Restrepo, D., Arango, C., Amézquita, A. y Restrepo, R. (2001). Industria de carne. Medellín, Colombia: Universidad Nacional de Colombia.  ',
+        'Restrepo Molina, D.A., Arango Mejía, C.M., Amézquita Campuzano, A., Restrepo Digiammarco, R.A. (2001). Industria de carnes. Universidad Nacional de Colombia. Medellín, Colombia.',
     },
   ],
   creditos: [
@@ -284,7 +284,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: '',
+          nombre: 'Johann Sebastián Terán Carvajal',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -294,12 +294,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Yineth Ibette González Quintero',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
