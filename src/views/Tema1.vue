@@ -58,8 +58,8 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.ct-1.mb-1 Evaluación de la calidad de carnes frescas: aplicación de ténicas analíticas, instrumentales y sensoriales 
-                p.mb-0.ct-1 Para fortalecer el tema anteriormente abordado, se recomiendo revisar el siguiente documento: 
+                h4.ct-1.mb-1 Evaluación de la calidad de carnes frescas: aplicación de técnicas analíticas, instrumentales y sensoriales 
+                p.mb-0.ct-1 Para fortalecer el tema anteriormente abordado, se recomienda revisar el siguiente documento: 
               .col-auto.mb-3.mb-sm-0
                 a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Evaluacion_calidad_carnes_frescas.pdf')" target="_blank" type="application/pdf")
                   span Descargar 

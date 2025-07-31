@@ -165,7 +165,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-1.ct-1 Buenas prácticas para la industria de la carne
-              p.mb-0.ct-1 Para fortalecer el tema anteriormente abordado, se recomiendo revisar el siguiente documento: 
+              p.mb-0.ct-1 Para fortalecer el tema anteriormente abordado, se recomienda revisar el siguiente documento: 
             .col-auto.mb-3.mb-sm-0
               a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Buenas_practicas_industria_carne.pdf')" target="_blank" type="application/pdf")
                 span Descargar 
