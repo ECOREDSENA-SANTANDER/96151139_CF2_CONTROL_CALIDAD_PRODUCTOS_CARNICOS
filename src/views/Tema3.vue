@@ -69,7 +69,7 @@
       .col-lg-7.pe-lg-0
         .p-4.px-lg-5.bg5.h-100
           h4.bg-color-acento-contenido.text-white.px-2.w-fit Microorganismos alterantes en carnes secas
-          p.mb-0 La estabilidad microbiológica de las carnes secas está directamente relacionada con su actividad de agua (aW). Cuando estas carnes absorben humedad del entorno durante el almacenamiento, pueden desarrollarse mohos y levaduras, afectando su textura, sabor y aspecto visual. Un control estricto de la humedad relativa del ambiente y del empaque es clave para prevenir su alteración.
+          p.mb-0 La estabilidad microbiológica de las carnes secas está directamente relacionada con su actividad de agua (aw). Cuando estas carnes absorben humedad del entorno durante el almacenamiento, pueden desarrollarse mohos y levaduras, afectando su textura, sabor y aspecto visual. Un control estricto de la humedad relativa del ambiente y del empaque es clave para prevenir su alteración.
       .col-lg-5.ps-lg-0.grad-t3--1
         img(src="@/assets/curso/temas/t3/3.jpg", alt="")
 

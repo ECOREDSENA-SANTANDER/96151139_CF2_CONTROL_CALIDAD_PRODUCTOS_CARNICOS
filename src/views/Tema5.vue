@@ -18,7 +18,7 @@
       .col-lg-4.d-none.d-lg-block(data-aos="fade-right")
         img(src='@/assets/curso/temas/t5/2.png', alt='') 
       .col-lg-8.col-md-11(data-aos="fade-left")
-        SlyderF.circl-arrow(columnas="col-lg-6 col-xl-6")
+        SlyderF.circl-arrow(columnas="col-12 col-xl-6")
           .tarjeta.bg-white.p-4.py-lg-5
             .row.justify-content-center.mb-4
               .col-lg-5.col-md-4.col-6
