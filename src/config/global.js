@@ -256,12 +256,12 @@ export default {
         {
           nombre: 'Ángela Viviana Páez Perilla',
           cargo: 'Experta temática ',
-          centro: 'Centro Agroindustrial – Regional Quindío',
+          centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
           nombre: 'Paola Andrea Bobadilla Gutiérrez ',
-          cargo: 'Guionista – Línea de producción',
-          centro: 'Centro Agroindustrial – Regional Quindío',
+          cargo: 'Guionista - Línea de producción',
+          centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
           nombre: 'Laura Paola Gelvez Manosalva ',
