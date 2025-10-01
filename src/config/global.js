@@ -126,14 +126,14 @@ export default {
       referencia:
         'Onega Pagador, M. E. (2003). Evaluación de la calidad de carnes frescas: Aplicación de técnicas analíticas, instrumentales y sensoriales (Tesis doctoral). Universidad Complutense de Madrid. ',
       tipo: 'Documento',
-      descarga: 'downloads/Evaluacion_calidad_carnes_frescas.pdf',
+      descarga: '/downloads/Evaluacion_calidad_carnes_frescas.pdf',
     },
     {
       tema: 'Prácticas higiénicas en áreas de proceso. ',
       referencia:
         'Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO) & Fundación Internacional Carrefour. (2007). Buenas prácticas para la industria de la carne.',
       tipo: 'Documento',
-      descarga: 'downloads/Buenas_practicas_industria_carne.pdf',
+      descarga: '/downloads/Buenas_practicas_industria_carne.pdf',
     },
   ],
   glosario: [
@@ -212,8 +212,9 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Mosquera, A. (s f.). Unidad 3 carnicos. Scribd.',
-      link: 'https://es.scribd.com/document/425610108/UNIDAD-3-CARNICOS',
+      referencia:
+        'Páez Perilla, Á. V., & Bobadilla Gutiérrez, P. A. (2014). Unidad 2. Productos e ingredientes cárnicos. Servicio Nacional de Aprendizaje – SENA, Centro Agroindustrial, Regional Quindío. ',
+      link: '/downloads/Control_calidad_productos_carnicos.pdf',
     },
     {
       referencia:
