@@ -214,7 +214,7 @@ export default {
     {
       referencia:
         'Páez Perilla, Á. V., & Bobadilla Gutiérrez, P. A. (2014). Unidad 2. Productos e ingredientes cárnicos. Servicio Nacional de Aprendizaje – SENA, Centro Agroindustrial, Regional Quindío. ',
-      link: '/downloads/Control_calidad_productos_carnicos.pdf',
+      link: 'downloads/Control_calidad_productos_carnicos.pdf',
     },
     {
       referencia:
