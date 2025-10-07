@@ -22,7 +22,7 @@
             .col-lg-12
               figure
                 .video
-                  iframe(width="560" height="315" src="https://www.youtube.com/embed/Ts1f1pJU4gM?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                  iframe(width="560" height="315" src="https://www.youtube.com/embed/au_TAtSplnA?si=wPULqFab55l_fOiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
               figcaption #[strong Video.] Más allá del sabor: prevención y seguridad en productos cárnicos
 
 
